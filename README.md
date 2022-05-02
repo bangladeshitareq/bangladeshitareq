@@ -1,9 +1,7 @@
-(https://scontent.fdac110-1.fna.fbcdn.net/v/t1.6435-9/83381554_2005507662927806_2177787777599406080_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF4bOPovb2Uq7aC8pjpCLZ786PL2IdG2Gfzo8vYh0bYZ7skIIaUlxpObTJcqmdGz84akM42NoNpyEhbxbfoAMRX&_nc_ohc=pkn-cmAGL54AX8BKkg1&_nc_ht=scontent.fdac110-1.fna&oh=00_AT_jVN_MMGNqn_jwVFzRTZ3Hhg0AW7_HP-364S9SYayd8w&oe=6294FEEC)
-
-
 ### Hi there 👋, My Name is Tareq
 #### I am Web Developer
-![I am Web Developer]
+![I am Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t1.6435-9/83381554_2005507662927806_2177787777599406080_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF4bOPovb2Uq7aC8pjpCLZ786PL2IdG2Gfzo8vYh0bYZ7skIIaUlxpObTJcqmdGz84akM42NoNpyEhbxbfoAMRX&_nc_ohc=pkn-cmAGL54AX8BKkg1&_nc_ht=scontent.fdac110-1.fna&oh=00_AT_jVN_MMGNqn_jwVFzRTZ3Hhg0AW7_HP-364S9SYayd8w&oe=6294FEEC)
+
 Ask yourself!
 ↓ ↓ ↓ ↓
 
