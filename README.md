@@ -29,7 +29,7 @@ Blood donation
 Skills: REACT / JS / HTML / CSS/PHP
 
 - 🔭 I’m currently working on G4S 
-- 🌱 I’m currently learning Jquery 
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Developer 
 
